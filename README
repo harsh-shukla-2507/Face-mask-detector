@@ -1,3 +1,0 @@
-Face-mask Detector : Under Prof. Sobita Meher
-
-This model identifies the face of person using Harcascade and labels the face with "mask" or "without_mask" using OpenCV and other pre-trained CNN model.
